@@ -1,0 +1,29 @@
+{
+  "name": "adept",
+  "version": "1.0.0",
+  "description": "employment",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaiapu/project.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaiapu/project/issues"
+  },
+  "homepage": "https://github.com/sanjaiapu/project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
